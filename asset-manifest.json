@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4a7fe7d.css",
-    "main.js": "/static/js/main.af8df104.js",
-    "index.html": "/index.html",
-    "static/media/delete.svg": "/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.e4a7fe7d.css.map": "/static/css/main.e4a7fe7d.css.map",
-    "main.af8df104.js.map": "/static/js/main.af8df104.js.map"
+    "main.css": "/React-Intro/static/css/main.37b63775.css",
+    "main.js": "/React-Intro/static/js/main.1a0ad51d.js",
+    "index.html": "/React-Intro/index.html",
+    "static/media/delete.svg": "/React-Intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/React-Intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.37b63775.css.map": "/React-Intro/static/css/main.37b63775.css.map",
+    "main.1a0ad51d.js.map": "/React-Intro/static/js/main.1a0ad51d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4a7fe7d.css",
-    "static/js/main.af8df104.js"
+    "static/css/main.37b63775.css",
+    "static/js/main.1a0ad51d.js"
   ]
 }
